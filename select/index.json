@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "三行半",
+  "base_artist": "cadode",
+  "createdAt": "2026-02-23T04:17:02.962263Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三行半",
+      "artist": "cadode",
+      "has_synced": false,
+      "path": "select/pl_01_三行半_cadode.txt"
+    }
+  ]
+}
